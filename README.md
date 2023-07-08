@@ -1,2 +1,2 @@
 # Try123
-This repository is a Demo
+Understanding Git and Github using this repo. 
